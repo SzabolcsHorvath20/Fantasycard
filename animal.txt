@@ -1,0 +1,8 @@
+1:Sanders:Chicken:Food
+3:Lassie:Dog:Goodboy
+100:Alpha:Wolf:Predator
+200:Lobo:Boar:Food
+1000:Tigger:Tiger:Predator
+2300:Winnie:Bear:Predator
+3300:Benedek:Bigfoot:Predator
+50000:Flint:Flamingo:Serial Killer
